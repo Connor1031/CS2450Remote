@@ -16,7 +16,7 @@ def ageGuess():
             break
         elif yesorno == 'N':
             notage.append(ages)
-            print("Rats.")
+            print("Rats.") # who says rats?
         else:
              print('Input not recognised. Type Y or N next time.')
     print(f"{name} is {realage} years old.")
