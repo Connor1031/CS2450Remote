@@ -1,0 +1,1 @@
+i have figured out how to use git. Got started on a decent chunk in my c++ class but still need to work on it as I am behind in the class. I am doing alright in descrete math, I need to memorize the equations orI'm going to be in trouble.
