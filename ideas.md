@@ -11,6 +11,9 @@ Messaging system
         private messaging
         groups messages called Village
 Points system
+    Interaction
+        likes += point
+        dislikes -= point
     Streaks
         login streak
         post streak
@@ -24,6 +27,7 @@ Points system
     gamble points
         plinko, blackjack, solitare
     raid other villages for points
+    returning to a previous page costs a point
 Social
     friends
     followers
@@ -31,7 +35,10 @@ Social
 Profile
     show persons IQ
     disablilties are shown
-    buy verification checkmarks, unlimited
-Dating section
-    Age verifaction
-    
+    buy verification checkmarks, unlimited, gatcha system
+Age verifaction
+    Dating section
+    Buying points
+
+Security
+    Bcrypt Hashing
