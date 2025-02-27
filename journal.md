@@ -7,3 +7,5 @@ I have gotten all caught up and am not understanding my c++ that well right now
 I took a couple days off from hw and am now behind a lot more than I thought I would be. im doing fine with all the code stuff though
 
 I took a test in my discrete mathmatics class and have no idea how i did. I think I did alright but am hoping for an 85+. i am still behind in my servers class and finished my portion of the presentation in my 2450 class
+
+I have finished some flyers and computer screen ads for the honors program and am satisfied with one of them and alright with another. I am now just waiting for my boss to check them off or give something to change about them before pushing them to the university to post around the school.
