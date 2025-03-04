@@ -9,3 +9,5 @@ I took a couple days off from hw and am now behind a lot more than I thought I w
 I took a test in my discrete mathmatics class and have no idea how i did. I think I did alright but am hoping for an 85+. i am still behind in my servers class and finished my portion of the presentation in my 2450 class
 
 I have finished some flyers and computer screen ads for the honors program and am satisfied with one of them and alright with another. I am now just waiting for my boss to check them off or give something to change about them before pushing them to the university to post around the school.
+
+I am catching up in my classes before spring break to hopefully not half to do any work during it. I am mostly caught up in all of my classes except for my C++ class
