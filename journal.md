@@ -11,3 +11,5 @@ I took a test in my discrete mathmatics class and have no idea how i did. I thin
 I have finished some flyers and computer screen ads for the honors program and am satisfied with one of them and alright with another. I am now just waiting for my boss to check them off or give something to change about them before pushing them to the university to post around the school.
 
 I am catching up in my classes before spring break to hopefully not half to do any work during it. I am mostly caught up in all of my classes except for my C++ class
+
+This week I have a test in my c++ class. I have finished all the assignments and the practice test. I am hoping i do well. 
