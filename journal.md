@@ -15,3 +15,5 @@ I am catching up in my classes before spring break to hopefully not half to do a
 This week I have a test in my c++ class. I have finished all the assignments and the practice test. I am hoping i do well. 
 
 I am taking a descrete math test this week. I have been working a decent bit lately. I have started to be able to go to the gym consistantly again. I am a little worried about this descrete test but i am studying a decent bit for it.
+
+I have taken the test and i feel like i did good on it. I am making a RSA encryption and decryption for that class now and it is a hard project. I have to start studying for my finals now and go a field trip for my geology class which is really stupid because it's worth 100 points.
