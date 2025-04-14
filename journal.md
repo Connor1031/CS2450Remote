@@ -17,3 +17,5 @@ This week I have a test in my c++ class. I have finished all the assignments and
 I am taking a descrete math test this week. I have been working a decent bit lately. I have started to be able to go to the gym consistantly again. I am a little worried about this descrete test but i am studying a decent bit for it.
 
 I have taken the test and i feel like i did good on it. I am making a RSA encryption and decryption for that class now and it is a hard project. I have to start studying for my finals now and go a field trip for my geology class which is really stupid because it's worth 100 points.
+
+I have fallen behind last week as I haven't done as much as i needed to do. I am now trying to catch up and study for my finals. I am a little nervous about my grades as I have them being really good or just good enough. I am working on the classes that are just good enough but I have gotten some high point assignments in the good classes that I also need to prioritize.
