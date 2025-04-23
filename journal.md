@@ -19,3 +19,5 @@ I am taking a descrete math test this week. I have been working a decent bit lat
 I have taken the test and i feel like i did good on it. I am making a RSA encryption and decryption for that class now and it is a hard project. I have to start studying for my finals now and go a field trip for my geology class which is really stupid because it's worth 100 points.
 
 I have fallen behind last week as I haven't done as much as i needed to do. I am now trying to catch up and study for my finals. I am a little nervous about my grades as I have them being really good or just good enough. I am working on the classes that are just good enough but I have gotten some high point assignments in the good classes that I also need to prioritize.
+
+Last week before finals, cramming in everything I can. Gave my presentation in my 2450 class for my website. I have to keep studying for all my other classes to make sure I get good grades in all of them.
